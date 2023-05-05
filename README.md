@@ -3,6 +3,12 @@
 This is a project for exploring the benefits of Wikipedia as a neo4j DB
 
 Files:
+
+DataGathered.xlsx
+Page One: Log of number of links in paths
+Page Two: The log of nodes and relationships during the import process
+Page Three: Failed attempt at importing data
+
 CleanXML.ipynb
 This Code is used to take in each Part of the XML and remove non articles and articles
 
@@ -19,5 +25,4 @@ similarity.ipynb
 This code measures the similarity of any two articles using the overlap coefficient 
 
 SplittingData.ipynb
-This code is used for processing the wikipedia xml dump into smaller sections 
-
+This code is used for processing the wikipedia xml dump into smaller sections
